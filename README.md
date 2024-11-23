@@ -1,0 +1,2 @@
+# exception
+Concept base exception
