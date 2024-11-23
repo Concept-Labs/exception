@@ -1,0 +1,27 @@
+{
+    "name": "concept-labs/exception",
+    "description": "(C)oncept-Labs Exception",
+    "keywords": ["php","exception"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "mtr",
+            "email": "info.concept.labs@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Concept\\Exception\\": "src/"
+        }
+    },
+    "require-dev": {
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    }
+
+}
